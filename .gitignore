@@ -1,0 +1,4 @@
+# Compiled C executables and object files
+*.o
+*.out
+**/a
